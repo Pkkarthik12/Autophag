@@ -1,5 +1,5 @@
 import unittest
-from ouroboros.kinematics import KinematicSolver
+from autophagx.kinematics import KinematicSolver
 
 class TestKinematics(unittest.TestCase):
     def setUp(self):
