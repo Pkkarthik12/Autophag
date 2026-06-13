@@ -1,0 +1,5 @@
+# Autophag-X Requirements
+# No external dependencies currently required for the core engine.
+# However, for advanced AI integration, these will be needed:
+# numpy>=1.24.0
+# torch>=2.0.0
